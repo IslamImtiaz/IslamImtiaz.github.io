@@ -1,0 +1,366 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "f7095ba8-4f65-4944-9578-436b361a4b91",
+        "sha256": "a26e846fc5c334dd2f82e9353b31fe2f82bd4e849ba96664bf0948d638d3e8ad",
+        "created": "2023-08-22T09:40:49.070Z",
+        "duration": 10.449938,
+        "channels": 1,
+        "models": [
+            "b227621c-0920-4128-b4b5-a3e0f525d2d7"
+        ],
+        "model_info": {
+            "b227621c-0920-4128-b4b5-a3e0f525d2d7": {
+                "name": "general-nova",
+                "version": "2023-07-28.18608",
+                "arch": "nova"
+            }
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "dose won't prompt you in the same way, but the point is that you understand better, hopefully, now, what it is we're trying to do, because you do wanna save this as a web page, and it turns out that the standard file extension to",
+                        "confidence": 0.99853516,
+                        "words": [
+                            {
+                                "word": "dose",
+                                "start": 0.0,
+                                "end": 0.24,
+                                "confidence": 0.1340332,
+                                "punctuated_word": "dose"
+                            },
+                            {
+                                "word": "won't",
+                                "start": 0.24,
+                                "end": 0.48,
+                                "confidence": 0.99609375,
+                                "punctuated_word": "won't"
+                            },
+                            {
+                                "word": "prompt",
+                                "start": 0.48,
+                                "end": 0.71999997,
+                                "confidence": 1.0,
+                                "punctuated_word": "prompt"
+                            },
+                            {
+                                "word": "you",
+                                "start": 0.71999997,
+                                "end": 0.79999995,
+                                "confidence": 0.99902344,
+                                "punctuated_word": "you"
+                            },
+                            {
+                                "word": "in",
+                                "start": 0.79999995,
+                                "end": 0.88,
+                                "confidence": 0.99609375,
+                                "punctuated_word": "in"
+                            },
+                            {
+                                "word": "the",
+                                "start": 0.88,
+                                "end": 1.04,
+                                "confidence": 1.0,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "same",
+                                "start": 1.04,
+                                "end": 1.28,
+                                "confidence": 1.0,
+                                "punctuated_word": "same"
+                            },
+                            {
+                                "word": "way",
+                                "start": 1.28,
+                                "end": 1.4399999,
+                                "confidence": 0.86083984,
+                                "punctuated_word": "way,"
+                            },
+                            {
+                                "word": "but",
+                                "start": 1.4399999,
+                                "end": 1.5999999,
+                                "confidence": 0.99902344,
+                                "punctuated_word": "but"
+                            },
+                            {
+                                "word": "the",
+                                "start": 1.5999999,
+                                "end": 1.76,
+                                "confidence": 0.99853516,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "point",
+                                "start": 1.76,
+                                "end": 2.0,
+                                "confidence": 1.0,
+                                "punctuated_word": "point"
+                            },
+                            {
+                                "word": "is",
+                                "start": 2.0,
+                                "end": 2.1599998,
+                                "confidence": 0.9995117,
+                                "punctuated_word": "is"
+                            },
+                            {
+                                "word": "that",
+                                "start": 2.1599998,
+                                "end": 2.3999999,
+                                "confidence": 0.95654297,
+                                "punctuated_word": "that"
+                            },
+                            {
+                                "word": "you",
+                                "start": 2.3999999,
+                                "end": 2.56,
+                                "confidence": 0.9941406,
+                                "punctuated_word": "you"
+                            },
+                            {
+                                "word": "understand",
+                                "start": 2.56,
+                                "end": 3.04,
+                                "confidence": 0.9995117,
+                                "punctuated_word": "understand"
+                            },
+                            {
+                                "word": "better",
+                                "start": 3.04,
+                                "end": 3.1999998,
+                                "confidence": 0.9265137,
+                                "punctuated_word": "better,"
+                            },
+                            {
+                                "word": "hopefully",
+                                "start": 3.1999998,
+                                "end": 3.6999998,
+                                "confidence": 0.80078125,
+                                "punctuated_word": "hopefully,"
+                            },
+                            {
+                                "word": "now",
+                                "start": 3.76,
+                                "end": 4.26,
+                                "confidence": 0.7956543,
+                                "punctuated_word": "now,"
+                            },
+                            {
+                                "word": "what",
+                                "start": 4.3199997,
+                                "end": 4.48,
+                                "confidence": 0.9980469,
+                                "punctuated_word": "what"
+                            },
+                            {
+                                "word": "it",
+                                "start": 4.48,
+                                "end": 4.64,
+                                "confidence": 0.9995117,
+                                "punctuated_word": "it"
+                            },
+                            {
+                                "word": "is",
+                                "start": 4.64,
+                                "end": 4.9949374,
+                                "confidence": 1.0,
+                                "punctuated_word": "is"
+                            },
+                            {
+                                "word": "we're",
+                                "start": 5.1549373,
+                                "end": 5.4749374,
+                                "confidence": 0.96240234,
+                                "punctuated_word": "we're"
+                            },
+                            {
+                                "word": "trying",
+                                "start": 5.4749374,
+                                "end": 5.714937,
+                                "confidence": 0.9995117,
+                                "punctuated_word": "trying"
+                            },
+                            {
+                                "word": "to",
+                                "start": 5.714937,
+                                "end": 5.8749375,
+                                "confidence": 0.9995117,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "do",
+                                "start": 5.8749375,
+                                "end": 6.194937,
+                                "confidence": 0.7844238,
+                                "punctuated_word": "do,"
+                            },
+                            {
+                                "word": "because",
+                                "start": 6.194937,
+                                "end": 6.4349375,
+                                "confidence": 0.99853516,
+                                "punctuated_word": "because"
+                            },
+                            {
+                                "word": "you",
+                                "start": 6.4349375,
+                                "end": 6.5949373,
+                                "confidence": 0.99853516,
+                                "punctuated_word": "you"
+                            },
+                            {
+                                "word": "do",
+                                "start": 6.5949373,
+                                "end": 6.754937,
+                                "confidence": 0.9995117,
+                                "punctuated_word": "do"
+                            },
+                            {
+                                "word": "wanna",
+                                "start": 6.754937,
+                                "end": 6.9949374,
+                                "confidence": 0.5419922,
+                                "punctuated_word": "wanna"
+                            },
+                            {
+                                "word": "save",
+                                "start": 6.9949374,
+                                "end": 7.2349377,
+                                "confidence": 0.99902344,
+                                "punctuated_word": "save"
+                            },
+                            {
+                                "word": "this",
+                                "start": 7.2349377,
+                                "end": 7.3949375,
+                                "confidence": 0.9995117,
+                                "punctuated_word": "this"
+                            },
+                            {
+                                "word": "as",
+                                "start": 7.3949375,
+                                "end": 7.4749374,
+                                "confidence": 0.99658203,
+                                "punctuated_word": "as"
+                            },
+                            {
+                                "word": "a",
+                                "start": 7.4749374,
+                                "end": 7.5549374,
+                                "confidence": 0.9995117,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "web",
+                                "start": 7.5549374,
+                                "end": 7.714937,
+                                "confidence": 0.5991211,
+                                "punctuated_word": "web"
+                            },
+                            {
+                                "word": "page",
+                                "start": 7.714937,
+                                "end": 7.9549375,
+                                "confidence": 0.7467041,
+                                "punctuated_word": "page,"
+                            },
+                            {
+                                "word": "and",
+                                "start": 7.9549375,
+                                "end": 8.114937,
+                                "confidence": 0.99902344,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "it",
+                                "start": 8.114937,
+                                "end": 8.274938,
+                                "confidence": 0.9995117,
+                                "punctuated_word": "it"
+                            },
+                            {
+                                "word": "turns",
+                                "start": 8.274938,
+                                "end": 8.514937,
+                                "confidence": 0.9995117,
+                                "punctuated_word": "turns"
+                            },
+                            {
+                                "word": "out",
+                                "start": 8.514937,
+                                "end": 8.674937,
+                                "confidence": 0.99853516,
+                                "punctuated_word": "out"
+                            },
+                            {
+                                "word": "that",
+                                "start": 8.674937,
+                                "end": 8.754937,
+                                "confidence": 0.9980469,
+                                "punctuated_word": "that"
+                            },
+                            {
+                                "word": "the",
+                                "start": 8.754937,
+                                "end": 8.994938,
+                                "confidence": 0.99902344,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "standard",
+                                "start": 8.994938,
+                                "end": 9.474937,
+                                "confidence": 0.99853516,
+                                "punctuated_word": "standard"
+                            },
+                            {
+                                "word": "file",
+                                "start": 9.474937,
+                                "end": 9.714937,
+                                "confidence": 0.99853516,
+                                "punctuated_word": "file"
+                            },
+                            {
+                                "word": "extension",
+                                "start": 9.714937,
+                                "end": 10.194937,
+                                "confidence": 0.9975586,
+                                "punctuated_word": "extension"
+                            },
+                            {
+                                "word": "to",
+                                "start": 10.194937,
+                                "end": 10.449938,
+                                "confidence": 0.98583984,
+                                "punctuated_word": "to"
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\ndose won't prompt you in the same way, but the point is that you understand better, hopefully, now, what it is we're trying to do, because you do wanna save this as a web page, and it turns out that the standard file extension to",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "dose won't prompt you in the same way, but the point is that you understand better, hopefully, now, what it is we're trying to do, because you do wanna save this as a web page, and it turns out that the standard file extension to",
+                                            "start": 0.0,
+                                            "end": 10.449938
+                                        }
+                                    ],
+                                    "num_words": 45,
+                                    "start": 0.0,
+                                    "end": 10.449938
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
